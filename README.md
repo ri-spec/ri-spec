@@ -1,3 +1,3 @@
-- 👋 Hi, I’m ritika
+- 👋 Hi, I’m Ritika
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
